@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\bin\Debug\netcoreapp3.1\AccountUserTask.exe
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\bin\Debug\netcoreapp3.1\AccountUserTask.deps.json
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\bin\Debug\netcoreapp3.1\AccountUserTask.runtimeconfig.json
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\bin\Debug\netcoreapp3.1\AccountUserTask.runtimeconfig.dev.json
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\bin\Debug\netcoreapp3.1\AccountUserTask.dll
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\bin\Debug\netcoreapp3.1\AccountUserTask.pdb
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.AssemblyInfo.cs
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.dll
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.pdb
+C:\Users\asus\Desktop\IAccountAP102\AccountUserTask\AccountUserTask\obj\Debug\netcoreapp3.1\AccountUserTask.genruntimeconfig.cache
